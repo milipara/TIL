@@ -1,0 +1,8 @@
+git은 분산 버전 관리시스템입니다!
+
+기초 명령어입니다.
+git init
+git add 파일명
+git commit -m '커밋메세지'
+git log
+git status
