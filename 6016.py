@@ -1,0 +1,5 @@
+c1 = input()
+c2 = input()
+c1 = str("a")
+c2 = str("b")
+print(c2,c1)
